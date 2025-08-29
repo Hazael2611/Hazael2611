@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **improving my programming skills**
 
-- 🌱 I’m currently learning **SQL for data manipulation and analysis, Python for data science: Basic ML, data visualization, and data handling**
+- 🌱 I’m currently learning **SQL for data manipulation and analysis, Python for data science: Basic ML, data visualization,data handling and fundamental knowledge of Snowflake and DBT.**
 
 - 💬 Ask me about **python, matlab, R, sql**
 
