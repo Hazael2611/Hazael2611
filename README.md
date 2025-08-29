@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hazael Hinojosa</h1>
-<h3 align="center">A passionate Biotech Engineer and data science student</h3>
+<h3 align="center">A passionate Biotech Engineer and master data science student</h3>
 
 - 🔭 I’m currently working on **improving my programming skills**
 
