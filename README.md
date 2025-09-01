@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hazael Hinojosa</h1>
 <h3 align="center">A passionate Biotech Engineer and master data science student</h3>
 
-- 🔭 I’m currently working on **improving my programming skills**
+- 🔭 I’m currently working on **improving my programming skills focused in data**
 
-- 🌱 I’m currently learning **SQL for data manipulation and analysis, Python for data science: Basic ML, data visualization,data handling and fundamental knowledge of Snowflake and DBT.**
+- 🌱 I’m currently improving my **SQL knowledge for data manipulation and analysis, Python for data science: Basic ML, data visualization,data handling and fundamental knowledge of Snowflake and DBT.**
 
 - 💬 Ask me about **python, matlab, R, sql**
 
