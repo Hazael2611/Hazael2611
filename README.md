@@ -9,7 +9,7 @@
 
 ---
 
-<h3 align="left">🌐 Connect with me:</h3>
+<h3 align="left"> Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/hazael-hinojosa/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hazael-hinojosa" height="30" width="40" />
@@ -18,7 +18,7 @@
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
+<h3 align="left"> Languages and Tools:</h3>
 
 **Programming & Analysis:** Python, SQL, R, Matlab  
 **Libraries & Frameworks:** Pandas, Numpy, Scikit-learn, Seaborn, Matplotlib  
@@ -27,7 +27,7 @@
 
 ---
 
-<h3>🚀 Featured Projects</h3>
+<h3> Featured Projects</h3>
 
 - [Telecom Churn Analysis](https://github.com/usuario/repo) → *EDA with Python, SQL queries, and Power BI dashboard*  
 - [SQL Practice](https://github.com/usuario/repo) → *Collection of SQL exercises for analytics*  
