@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hazael Hinojosa</h1>
 <h3 align="center">Biotech Engineer | Master's Student in Data Science & Engineering | SQL & Python Enthusiast</h3>
 
-- Currently working on **academic and personal projects in data analysis and data engineering**  
+- Currently working on **academic and personal projects in data analysis and data science**  
 - Expanding knowledge in **SQL for analytics, Python (ML & visualization), and learning cloud-based tools (Snowflake, DBT, Power BI)**  
 - Interested in **data (analytics, enginner or science), BI, and applied machine learning**  
 - Ask me about **Python, SQL, R, Matlab, data visualization, and problem-solving with data**  
