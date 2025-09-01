@@ -20,7 +20,7 @@
 
 <h3 align="left"> Languages and Tools:</h3>
 
-**Programming & Analysis:** Python, SQL, R, Matlab  
+**Programming & Analysis:** Python, SQL, R, Matlab, new in JS 
 **Libraries & Frameworks:** Pandas, Numpy, Scikit-learn, Seaborn, Matplotlib  
 **Databases & Cloud:** PostgreSQL, Snowflake, DBT  
 **Visualization:** Power BI  
