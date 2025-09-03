@@ -31,7 +31,7 @@
 
 <h3> Featured Projects</h3>
 
--[Predict Tests Scores](https://github.com/Hazael2611/PredictTestsScores)  → *EDA and simple ML with Python*
+- [Predict Tests Scores](https://github.com/Hazael2611/PredictTestsScores)  → *EDA and simple ML with Python*
 - [Telecom Churn Analysis](https://github.com/Hazael2611/Python-sql-Bi) → *EDA with Python, SQL queries, and Power BI dashboard*  
 
 
